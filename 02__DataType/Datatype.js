@@ -1,0 +1,1 @@
+// string , number , object , array , undefined , null , int , boolen , 
